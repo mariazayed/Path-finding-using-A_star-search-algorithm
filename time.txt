@@ -1,0 +1,19 @@
+Safad: Akka,66 # Al-Nasrah,59 # Tabarya,42
+Tabarya: Heifa,52 # Al-Nasrah,39 # Bisan,43 # Safad,42
+Bisan: Nablus,171 # Al-Nasrah,42 # Tabarya,43
+Al-Nasrah: Heifa,45 # Akka,42 # Bisan,42 # Tabarya,39 # Safad,59
+Jenin: Qalqilya,72 # Ramallah,114 # Tulkarem,115 # Nablus,81
+Nablus: Qalqilya,54 # Heifa,93 # Hebron,122 # Bethlehem,94 # Jerusalem,78 # Ramallah,71 # Jericho,84 # Tulkarem,88 # Jenin,81 # Bisan,171
+Tulkarem: Qalqilya,22 # Heifa,64 # Ramallah,68 # Jericho,97 # Nablus,88 # Jenin,115
+Jericho: Al-Lid,71 # Hebron,100 # Bethlehem,62 # Jerusalem,44 # Ramallah,50 # Tulkarem,97 # Nablus,84
+Ramallah: Qalqilya,92 # Hebron,69 # Bethlehem,46 # Jerusalem,50 # Jericho,50 # Tulkarem,68 # Nablus,71 # Jenin,114
+Jerusalem: Gaza,138 # Al-Lid,46 # Hebron,55 # Bethlehem,28 # Ramallah,50 # Jericho,44 # Nablus,78
+Bethlehem: Hebron,48 # Jerusalem,28 # Ramallah,46 # Jericho,62 # Nablus,94
+Hebron: Gaza,138 # Al-Lid,86 # Bethlehem,48 # Jerusalem,55 # Ramallah,69 # Jericho,100 # Nablus,122
+Akka: Heifa,25 # Al-Nasrah,42 # Safad,66
+Heifa: Yaffa,70 # Akka,25 # Tulkarem,64 # Nablus,93 # Al-Nasrah,45 # Tabarya,52
+Qalqilya: Al-Lid,46 # Ramallah,92 # Tulkarem,22 # Nablus,54 # Jenin,72
+Yaffa: Al-Ramleh,28 # Al-Lid,30 # Heifa,70
+Al-Lid: Gaza,116 # Al-Ramleh,10 # Yaffa,30 # Qalqilya,46 # Hebron,86 # Jerusalem,46 # Jericho,71
+Al-Ramleh: Gaza,112 # Al-Lid,10 # Yaffa,28
+Gaza: Al-Ramleh,112 # Al-Lid,116 # Hebron,138 # Jerusalem,138
