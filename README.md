@@ -1,8 +1,10 @@
 # Path finding using A_star search algorithm
 
-```DirectedGraph``` generates a directed graph for the set of cities and use it to find the best path
-
 **Note** the project was running in [eclipse](https://www.eclipse.org/)
+
+This project used [A star searching algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to search for the best path between two pre-defined cities in terms of the disctance, speed, and cost
+
+```DirectedGraph``` generates a directed graph for the set of cities and use it to find the best path
 
 # Screen shots
 ## Project's Interface
