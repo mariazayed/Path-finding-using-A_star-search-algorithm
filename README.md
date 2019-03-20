@@ -1,5 +1,6 @@
 # Path finding using A_star search algorithm
 
+**Note** this project was created in 2017<br>
 **Note** the project was running in [eclipse](https://www.eclipse.org/)
 
 This project used [A star searching algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to search for the best path between two pre-defined cities in terms of the disctance, speed, and cost
